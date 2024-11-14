@@ -6,8 +6,9 @@
 
 .card-white-img {
   height: 100px;
-  width: 90%;
   background-image: url("https://picsum.photos/150/100");
+  background-position: center;
+  background-size: cover;
   padding: 8px;
 }
 
@@ -23,7 +24,7 @@ a.btn {
 }
 
 .card-white ul {
-  margin-top: 24px;
+  margin-top: 12px;
   text-align: right;
 }
 
