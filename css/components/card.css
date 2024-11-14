@@ -1,0 +1,32 @@
+.card-white {
+  background-color: white;
+  padding: 8px;
+  width: 250px;
+}
+
+.card-white-img {
+  height: 100px;
+  width: 90%;
+  background-image: url("https://picsum.photos/150/100");
+  padding: 8px;
+}
+
+a.btn {
+  background-color: #f4f4f4;
+  padding: 4px;
+  border-radius: 4px;
+}
+
+.avatar {
+  border-radius: 500px;
+  width: 32px;
+}
+
+.card-white ul {
+  margin-top: 24px;
+  text-align: right;
+}
+
+.card-user {
+  margin-top: 24px;
+}
